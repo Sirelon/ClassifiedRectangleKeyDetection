@@ -109,7 +109,6 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     }
 
-
     @Override
     public void onPause(){
         super.onPause();
@@ -139,6 +138,5 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
     }
     public void onCameraViewStopped() {
     }
-
 
 }
